@@ -16,6 +16,8 @@ menu:
       url: https://github.com/rstudio/blogdown
     - name: X
       url: https://twitter.com/rstudio
+    - name: otro
+      url: https://www.youtube.com/watch?v=fZdlPeBV7UM
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
