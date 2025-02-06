@@ -1,7 +1,7 @@
 ---
 title: ¿De qué se trata?
 author: eb
-date: '2024-12-29'
+date: '2025-2-5'
 slug: primer-post
 categories: []
 tags: []
