@@ -1,7 +1,7 @@
 baseurl: /
 languageCode: en-US
-title: A Hugo website
-theme: hugo-lithium
+title: El sitio del proyecto 2025
+theme: "Hugo-Octopress"
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
@@ -13,7 +13,7 @@ menu:
     - name: sobre nosotros
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/ebologna
     - name: X
       url: https://twitter.com/rstudio
     - name: otro
